@@ -1,0 +1,25 @@
+.style {
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+textarea{
+    height: 50ch;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
